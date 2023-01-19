@@ -54,6 +54,7 @@ body{
 
 .text_field:hover{
   background-color: #131d2d;
+  color: white;
 }
 
 .submit_b{
